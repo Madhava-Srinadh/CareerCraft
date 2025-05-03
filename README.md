@@ -38,7 +38,7 @@ Detailed documentation of the Resume ATS Tracker is available here:
 
 Watch the demo videos to see the Resume ATS Tracker in action:
 
-- ▶️ [Demo Video](https://drive.google.com/file/d/1KQp1rHct44qXDiZKux6ibcSEyR2b2KS3/view?usp=drive_link)
+- ▶️ [Demo Video](https://drive.google.com/file/d/17mVcmUIiODdAxRu9qiW7RdJulmJpvwMD/view?usp=drive_link)
 
 ---
 
